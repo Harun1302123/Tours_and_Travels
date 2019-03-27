@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <user>
+    <name>Tripto Rahman</name>
+    <username>tripto</username>
+    <email>triptorahman@gmail.com</email>
+    <password>12345678</password>
+    <type>admin</type>
+  </user>
+  <user>
+    <name>Tonmoy Asif</name>
+    <username>tonmoy</username>
+    <email>tonmoyasif@gmail.com</email>
+    <password>123456789</password>
+    <type>user</type>
+  </user>
+  <user>
+    <name>shahriar emon</name>
+    <username>emon</username>
+    <email>shahriaremon@gmail.com</email>
+    <password>12345678</password>
+    <type>user</type>
+  </user>
+</data>

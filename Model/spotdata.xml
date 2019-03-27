@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <spot>
+    <username>tonmoy</username>
+    <sname>Inani beach</sname>
+    <sarea>Coxs bazar</sarea>
+    <sregion>Chittagong</sregion>
+    <splacetype>Beach</splacetype>
+    <sdescription>World Largest sea beach.</sdescription>
+    <spotimage>Saintmartin.jpg</spotimage>
+  </spot>
+  <spot>
+    <username>rohit</username>
+    <sname>Sajek</sname>
+    <sarea>bandarban</sarea>
+    <sregion>Chittagong</sregion>
+    <splacetype>Hill</splacetype>
+    <sdescription>One of the Beautiful place of Bangladesh.</sdescription>
+    <spotimage>sajek.jpg</spotimage>
+  </spot>
+</data>
