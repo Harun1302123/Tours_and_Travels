@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<?php session_start(); ?>
+<?php
+	//start session
+	session_start(); 
+?>
 <html>
 	<head>
 		<script type="text/javascript">
